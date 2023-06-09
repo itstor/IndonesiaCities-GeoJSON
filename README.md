@@ -1,4 +1,4 @@
-# Indoensia Cities GeoJSON
+# Indonesia Cities GeoJSON
 
 This repository contains the GeoJSON files of Indonesia cities. The data is taken from [SimpleMaps](https://simplemaps.com/data/id-cities). It only contains the Point data and the name of the cities.
 
